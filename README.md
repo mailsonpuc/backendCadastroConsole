@@ -20,3 +20,5 @@ Console.WriteLine(connectionString); // teste
 
 ## Rodar
 `dotnet run`
+
+<img src="p.png">
